@@ -1,30 +1,24 @@
 Hi, I'm Waseem! 👋
 UX/UI Designer | Web Developer | Shopify Expert
+# 💫 About Me:
+Hi, I'm Muhammad Waseem — a passionate UX/UI Designer, Full Stack Web Developer, and SEO Specialist with a strong focus on user experience, modern design, and performance optimization.<br><br>I specialize in creating fast, responsive, and conversion-focused websites and Shopify themes. With hands-on experience in platforms like Shopify, WordPress, Wix, and custom code, I help businesses bring their digital ideas to life.<br><br>🔧 Skills & Tools<br>Front-End: HTML5, CSS3, Tailwind CSS, JavaScript, Liquid<br><br>Back-End: PHP, MySQL, Firebase<br><br>CMS & eCommerce: Shopify (2.0 Themes), WordPress, Wix<br><br>Design: Figma, Adobe XD, Canva<br><br>Other Tools: Git, GitHub, VS Code, SEO Tools, ChatGPT<br><br>🧠 What I Do<br>Custom Shopify Theme Development (OS 2.0)<br><br>UX/UI Design & Wireframing<br><br>Website Redesigns<br><br>SEO Optimization<br><br>Virtual Assistant Tasks<br><br>Screenshot AI Tool Development<br><br>🚀 Recent Projects<br>Packed Party – Shopify Store Redesign<br><br>Clench Fitness – Brand Setup & Theme Customization<br><br>TechCurvy.pk – SEO-optimized Dropshipping Website<br><br>📫 Contact Me<br>💼 Portfolio: waseemuxui.blogspot.com<br><br>📧 Email: waseemuxui@gmail.com<br><br>🌐 Website: Shafi iT Solutions<br><br>☎️ WhatsApp: +92-334-1122126
 
-Welcome to my GitHub! I’m a professional web designer and developer with a passion for creating seamless, user-friendly websites. I specialize in Shopify store development, customizations, and redesigns, as well as building websites on platforms like Wix, Squarespace, and GoDaddy.
 
-🚀 What I Do:
-Shopify Store Design & Development: High-converting, responsive stores built for user experience and performance.
-Custom Shopify Features: Tailored functionality to meet unique business needs, from navigation tweaks to checkout customizations.
-Website Design & Redesign: Complete website overhauls, or custom designs for platforms like Wix, Squarespace, and GoDaddy.
-SEO Optimization: On-page SEO and performance improvements to boost organic traffic.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/waseemui) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseemuxui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waseemuxui) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@waseemuxui) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/waseemuxui) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/waseemuxui) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/waseemuxui) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/waseemuxui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseemuxui@gmail.com) 
 
-🛠️ Skills:
-Shopify Customization & Redesign
-HTML/CSS/JavaScript
-UX/UI Design
-SEO Optimization
-Responsive Web Design
-WordPress, Wix, GoDaddy, Squarespace
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waseemuxui&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=waseemuxui&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemuxui&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-🔗 Connect with Me:
-Dribbble
-Twitter
-LinkedIn
+---
+[![](https://visitcount.itsvg.in/api?id=waseemuxui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-👨‍💻 My Projects:
-You’ll find some of my latest work here, including Shopify customizations, theme builds, and website redesigns. Feel free to check them out, and let me know if you have any questions!
-<!---
-waseemuxui/waseemuxui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/waseemuxui) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/waseemuxui) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/waseemuxui) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/waseemuxui) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
